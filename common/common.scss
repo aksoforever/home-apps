@@ -1,0 +1,105 @@
+.homepage-footer {
+  #main-outlet {
+    padding-top: 0;
+   }
+.homepage-light{background-color: #f8f9fa;}
+.homepagesection {
+    align-items:center;
+    padding-top:80px;
+    padding-bottom:80px;
+    position:relative;
+}
+.homepagesection .main_title{
+    margin:auto;
+    max-width:700px;
+}
+.homepagesection .main_title h2{margin-bottom: .5em;
+    font-size:32px;
+    text-align:center;
+    font-weight:400;
+}
+.homepagesection .main_title p{margin-bottom:1.5em;
+    color:#9aa0a6;
+    font-size:16px;
+    text-align:center;
+    font-weight:400;
+}
+/*eip group box button*/
+.eip-groups-boxes {
+    display:grid;
+    grid-template-columns: repeat(4, 24%);
+    grid-column-gap:1.333%;
+    grid-row-gap:1.5em;
+	margin: 1em 0;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.eip-groups-boxes .eip-group-box:hover {
+    box-shadow: 0 4px 4px rgba(0,0,0,0.3);
+}
+.eip-groups-boxes .eip-group-box {
+    transition: all 0.25s;
+}
+.eip-groups-boxes .eip-group-box {
+    flex: 1 1 24%;
+    margin: 1%;
+    display: flex;
+    box-sizing: border-box;
+    cursor: pointer;
+    border: 1px solid #e9e9e9;
+    color: #222;
+    background:#fff;
+}
+
+.eip-groups-boxes .eip-group-box .eip-group-box-inner {
+    padding: 1em;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.eip-groups-boxes .eip-group-box .eip-group-box-inner .eip-group-info-wrapper {
+    display: flex;
+    overflow: hidden;
+    flex: 0 1 auto;
+}
+.eip-groups-boxes .eip-group-box .eip-group-box-inner .eip-group-info-wrapper .eip-group-info {
+    flex: 1 0 auto;
+    width: 70%;
+}
+
+.eip-groups-boxes .eip-group-box .eip-group-box-inner .eip-group-title {
+    display: flex;
+    align-items: center;
+    color: #646464;
+    
+}
+
+.eip-groups-boxes .eip-group-box .eip-groups-info-name {
+    font-size: 1em;
+    font-weight:none;
+    color: #222;
+    margin-left:7px;
+}
+
+.seemore{text-align:center;}
+.seemore a {
+    font-size:18px;
+    background-color: transparent;
+    color:#222;
+    padding:10px 35px;
+    border:1px solid #222;
+    border-radius:25px;
+    margin-top:30px;
+    display:inline-block;
+}
+  
+.seemore a:hover {
+    background-color:#000;
+    color:#fff;
+}
+
+
+}
