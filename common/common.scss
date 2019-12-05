@@ -26,7 +26,6 @@
 }
 /*eip group box button*/
 .eip-groups-boxes {
-    display:grid;
     grid-template-columns: repeat(4, 24%);
     grid-column-gap:1.333%;
     grid-row-gap:1.5em;
