@@ -3,5 +3,25 @@ en:
   home_apps_description: "Please click to see all the applications you are looking for, and you are welcome to provide more suggestions."
   
   home_app_1_url: "http://bpm.quectel.com/"
-  home_app_1_title: "BPM process management"
+  home_app_1_title: ""
   
+  home_app_2_url: "http://meeting.quectel.com:9188/login"
+  home_app_2_title: "Book a meeting"
+  
+  home_app_3_url: "http://project.quectel.com:8089/"
+  home_app_3_title: "Project Management"
+  
+  home_app_4_url: "#"
+  home_app_4_title: "EHR"
+  
+  home_app_5_url: "http://mail.quectel.com/"
+  home_app_5_title: "Email login"
+  
+  home_app_6_url: "http://password.quectel.com:65201/"
+  home_app_6_title: "Modify Email Password"
+  
+  home_app_7_url: ""
+  home_app_7_title: ""
+  
+  home_app_8_url: ""
+  home_app_8_title: ""
