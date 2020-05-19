@@ -20,8 +20,10 @@ en:
   home_app_6_url: "http://password.quectel.com:65201/"
   home_app_6_title: "Modify Email Password"
   
-  home_app_7_url: ""
-  home_app_7_title: ""
+  home_app_7_url: "https://forums.quectel.com/"
+  home_app_7_title: "Technical Forums"
   
-  home_app_8_url: ""
-  home_app_8_title: ""
+  home_app_8_url: "https://iot.quectel.com/"
+  home_app_8_title: "QuecCloud"
+  
+  home_apps_all: "<a href='/c/apps/1' target='_Blank'>All Apps</a>"
