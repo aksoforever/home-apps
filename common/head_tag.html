@@ -45,8 +45,8 @@
        <section class="homepagesection homepage-light mobile-bottom">
           <div class="custom-homepage-wrapper wrap">
              <div class="main_title">
-                <h2>常用APP应用</h2>
-                <p>请点击查看所有寻找你使用的应用，也欢迎你提供更多建议。</p>
+                <h2>{{theme-i18n "home_apps_title"}}</h2>
+                <p>{{theme-i18n "home_apps_description"}}</p>
                 
              </div>
    
@@ -54,17 +54,15 @@
    
    <div class="container">
     <div class="eip-groups-boxes">
-       <a href="http://bpm.quectel.com/" target="_Blank" class="eip-group-box ember-view">
+       <a href="{{theme-i18n 'home_app_1_url'}}" target="_Blank" class="eip-group-box ember-view">
           <div class="eip-group-box-inner">
              <div class="eip-group-info-wrapper">
                 <!---->
                 <span class="eip-group-info">
    
                    <div class="eip-group-title">
-                      <svg class="fa d-icon d-icon-tasks  svg-icon svg-string" xmlns="http://www.w3.org/2000/svg">
-                         <use xlink:href="#tasks"></use>
-                      </svg>
-                     <span class="eip-groups-info-name">BPM 流程管理</span>
+                      {{d-icon 'tasks'}}
+                     <span class="eip-groups-info-name">{{theme-i18n "home_app_1_title"}}</span>
                    </div>
                 </span>
              </div>
