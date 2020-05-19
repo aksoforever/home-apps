@@ -1,0 +1,29 @@
+zh_CN:
+  home_apps_title: "APP 应用中心"
+  home_apps_description: "请点击查看所有寻找你使用的应用，也欢迎你提供更多建议。"
+  
+  home_app_1_url: "http://bpm.quectel.com/"
+  home_app_1_title: "BPM 流程管理"
+  
+  home_app_2_url: "http://meeting.quectel.com:9188/login"
+  home_app_2_title: "会议预订"
+  
+  home_app_3_url: "http://project.quectel.com:8089/"
+  home_app_3_title: "项目管理"
+  
+  home_app_4_url: "#"
+  home_app_4_title: "人事系统"
+  
+  home_app_5_url: "http://mail.quectel.com/"
+  home_app_5_title: "邮箱网页登录"
+  
+  home_app_6_url: "http://password.quectel.com:65201/"
+  home_app_6_title: "邮箱密码修改"
+  
+  home_app_7_url: "https://forums.quectel.com/"
+  home_app_7_title: "技术论坛"
+  
+  home_app_8_url: "https://iot.quectel.com/"
+  home_app_8_title: "物联网云服务"
+  
+  home_apps_all: "<a href='/c/apps/1' target='_Blank'>查看所有应用</a>"
