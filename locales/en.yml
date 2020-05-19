@@ -3,7 +3,7 @@ en:
   home_apps_description: "Please click to see all the applications you are looking for, and you are welcome to provide more suggestions."
   
   home_app_1_url: "http://bpm.quectel.com/"
-  home_app_1_title: "BPM Process management"
+  home_app_1_title: "BPM"
   
   home_app_2_url: "http://meeting.quectel.com:9188/login"
   home_app_2_title: "Book a meeting"
